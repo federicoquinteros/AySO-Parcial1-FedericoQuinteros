@@ -1,0 +1,6 @@
+mi ip:
+186.57.174.69
+mi usuario es:
+vagrant
+el hash o pass encriptada de miusuario:
+$y$j9T$iUD8gRclRkZitzZ8ATSNp1$lCrPLGzGyRND6h4i9X/1mXWmAAL/s6Di7Su5iKbLwJ2
